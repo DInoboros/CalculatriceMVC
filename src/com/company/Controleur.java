@@ -7,8 +7,6 @@ public class Controleur {
 	Modele modele;
 	View view;
 	
-	ControleurOperator jcoperateur;
-	ControleurChiffre  jcchiffre;
 	ControleurBouton bouton;
 	
 	boolean clicOperateur = false;
